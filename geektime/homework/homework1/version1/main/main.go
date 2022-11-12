@@ -1,1 +1,3 @@
-package version1
+package main
+
+//this is a demo
