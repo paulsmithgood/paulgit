@@ -1,11 +1,10 @@
 package main
 
-
 /*
-
+version6
 @@2022-11-18 07.31--zh
 
- */
+*/
 import (
 	"fmt"
 	"go_/exercise/geektime/homework2/version6"
